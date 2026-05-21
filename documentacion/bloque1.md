@@ -1,23 +1,14 @@
 # Bloque 1 - Introducción a las pruebas
 ## Tarea 1: primera reflexión sobre pruebas
          Situación
-Dato de entrada
-Resultado que debería obtenerse
-Pedido inferior a 50 € de cliente normal
-35€
-40€
-Pedido exactamente de 50 € de cliente normal
-50€
-50€
-Pedido superior a 50 € de cliente normal
-51€
-51€
-Pedido inferior a 50 € de cliente premium
-40€
-36€
-Pedido con importe negativo
--1
-InputMismatchException
+
+| Situación | Dato de entrada | Resultado que debería obtenerse |
+| --- | --- | --- |
+| Pedido inferior a 50 € de cliente normal | 35€ | 40€ |
+| Pedido exactamente de 50 € de cliente normal | 50€ | 50€ |
+| Pedido superior a 50 € de cliente normal | 51€ | 51€ |
+| Pedido inferior a 50 € de cliente premium | 40€ | 36€ |
+| Pedido con importe negativo | -1 | InputMismatchException |
 
 
 ### Respuestas razonadas
