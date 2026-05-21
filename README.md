@@ -9,3 +9,7 @@ La evidencia de que he completado la tarea 2 se encuentra en:
 La evidencia de que he completado la tarea 3 se encuentra en:
 /documentacion/bloque3.md
 
+## Bloque 4 - Diseño de casos de prueba
+La evidencia de que he completado la tarea 4 se encuentra en:
+/documentacion/bloque4.md
+
